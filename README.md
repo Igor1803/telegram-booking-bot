@@ -38,17 +38,6 @@ A production-ready Telegram bot for event ticket booking with admin features.
    run.bat
    ```
 
-### Quick Setup (Replit - Cloud)
-
-1. **Create new Repl** at [replit.com](https://replit.com) with Python template
-2. **Upload all project files** to your Repl
-3. **Add Secrets** in Replit:
-   - `TELEGRAM_BOT_TOKEN` = your bot token from @BotFather
-   - `ADMIN_IDS` = your user ID from @userinfobot
-4. **Click Run** ▶️ - the bot will auto-deploy and start
-
-📖 **Detailed Replit Guide:** [REPLIT_RU.md](REPLIT_RU.md)
-
 ### Manual Setup
 
 #### 1. Install Dependencies
